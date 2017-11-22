@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 13 10:16:11 2017
 
-@author: muriel
+@author: Muriel Lobier
 """
 import networkx as nx
 import community
