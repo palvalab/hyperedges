@@ -7,17 +7,17 @@ This repository includes a python implemetation of the hyperedge clustering meth
 
 This code is written in Python 2.7 and requires the following packages to be installed:
 
-* [NumPy and SciPy] (http://www.numpy.org/)
-* [matplotlib] (https://matplotlib.org/)
-* [seaborn] (https://seaborn.pydata.org/)
+* [NumPy and SciPy](http://www.numpy.org/)
+* [matplotlib](https://matplotlib.org/)
+* [seaborn](https://seaborn.pydata.org/)
 * [networkx 2.0](https://networkx.github.io/)
-* [community]: (https://github.com/taynaud/python-louvain)
+* [community](https://github.com/taynaud/python-louvain)
 
 ## Using the code
 
 The functions to carry out the clustering are included in the edge_clustering.py file.
 
-A JuPyter notebook is provided here as a demo/tutorial on how to use these functions using provided example files.
+The Juyter notebook [hyperedge_demo](https://github.com/palvalab/hyperedges/blob/master/hyperedge_demo.ipynb) is provided as a demo/tutorial on how to use these functions using provided example files.
 
 
 ## Authors
