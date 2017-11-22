@@ -1,6 +1,6 @@
 # Hyperedge clustering - Demonstration
 
-This repository includes a python implemetation of the hyperedge clustering method presented in [Hyperedge bundling: A practical solution to spurious interactions in MEG/EEG source connectivity analyses] (https://www.biorxiv.org/content/early/2017/11/14/219311) by Wang S.H. et al. 
+This repository includes a python implemetation of the hyperedge clustering method presented in [Hyperedge bundling: A practical solution to spurious interactions in MEG/EEG source connectivity analyses](https://www.biorxiv.org/content/early/2017/11/14/219311) by Wang S.H. et al. 
 
 
 ## Prerequisites
